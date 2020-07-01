@@ -1,0 +1,31 @@
+/* index.html的css样式 */
+#header{
+    width:100%;
+    height: 27px;
+    background-color:#f2f2f2 ;
+    font-size: 12px;
+    line-height: 27px;
+}
+#header .wapper{
+    width: 990px;
+    height: 100%;
+    margin: 0 auto;
+}
+#login-info{
+    float: left;
+}
+ #quick-menu{
+    float: right;
+}
+#quick-menu li{
+    float: left;
+}
+#header a,#header span{
+    color: #999;
+}
+#header a:hover{
+    color: #FF0036;
+}
+#header a{
+    margin: 0 10px;
+}
